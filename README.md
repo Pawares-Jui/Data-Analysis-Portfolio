@@ -9,7 +9,7 @@ In my free time, I enjoy exploring new datasets, experimenting with machine lear
 My Resume in [pdf](https://github.com/Pawares-Jui/Data-Analysis-Portfolio/blob/main/Resume_Pawares_Juisangiam.pdf)
 
 ## Table of Contents
-- [Portfolio Project](https://github.com/Pawares-Jui/PortfolioProject)
+- [Portfolio Project](https://github.com/Pawares-Jui/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
