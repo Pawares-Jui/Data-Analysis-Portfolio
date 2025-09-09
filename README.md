@@ -7,3 +7,10 @@ During my projects, I honed my skills in Python (Pandas, NumPy, Matplotlib, Seab
 In my free time, I enjoy exploring new datasets, experimenting with machine learning models, and learning about innovative techniques in data science. I am eager to apply my skills to meaningful projects and contribute to a data-driven team.
 
 My Resume in [pdf](https://github.com/Pawares-Jui/Data-Analysis-Portfolio/blob/main/Resume_Pawares_Juisangiam.pdf)
+
+## Table of Contents
+- Portfolio Project []
+  
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
