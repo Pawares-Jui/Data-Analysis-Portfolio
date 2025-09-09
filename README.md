@@ -2,7 +2,7 @@
 ### About
 Hi, I'm Pawares! I have a strong foundation in mathematic and statistic, and I recently graduated with hands-on experience in data analysis and machine learning. I am passionate about using data to uncover insights and solve real-world problems.
 
-During my projects, I honed my skills in Python (Pandas, NumPy, Matplotlib, Seaborn, WordCloud), R, and SQL, performing exploratory data analysis (EDA), text analysis, and feature engineering. I have experience visualizing data and presenting insights through interactive reports and dashboards, which helps communicate complex information clearly.
+During my projects, I honed my skills in Python (Pandas, NumPy, Matplotlib, Seaborn), R, and SQL, performing exploratory data analysis (EDA), text analysis, and feature engineering. I have experience visualizing data and presenting insights through interactive reports and dashboards, which helps communicate complex information clearly.
 
 In my free time, I enjoy exploring new datasets, experimenting with machine learning models, and learning about innovative techniques in data science. I am eager to apply my skills to meaningful projects and contribute to a data-driven team.
 
