@@ -15,8 +15,8 @@ My Resume in [pdf](https://github.com/Pawares-Jui/Data-Analysis-Portfolio/blob/m
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Telco Customer Churn Analysis & Prediction
-**Code**
-**Goal**
+**Code:** [Telco Customer Churn Prediction & Analysis](https://github.com/Pawares-Jui/PortfolioProject/blob/main/Telco%20Customer%20Churn%20Prediction%20%26%20Analysis.ipynb)
 
 ### SMS Spam Analysis – Exploring Patterns in Text Messages
+**Code:** [SMS Spam Analysis](https://github.com/Pawares-Jui/PortfolioProject/blob/main/SMS%20Spam%20Analysis.ipynb)
 
