@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Data-Analyst-Portfolio
 ### About
 Hi, I'm Pawares! I have a strong foundation in mathematic and statistic, and I recently graduated with hands-on experience in data analysis and machine learning. I am passionate about using data to uncover insights and solve real-world problems.
 
@@ -20,3 +20,10 @@ In this section I will list data analytics projects briefly describing the techn
 ### SMS Spam Analysis – Exploring Patterns in Text Messages
 **Code:** [SMS Spam Analysis](https://github.com/Pawares-Jui/PortfolioProject/blob/main/SMS%20Spam%20Analysis.ipynb)
 
+## Education
+Thammasat University 
+Bachelor of Science and Technology in Applied Mathematics,
+Aug 2021 - May 2025
+
+## Contacts
+- Email: pawares.ju@gmail.com
