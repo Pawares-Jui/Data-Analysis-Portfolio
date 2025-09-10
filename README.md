@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data-Analysis-Portfolio
 ### About
 Hi, I'm Pawares! I have a strong foundation in mathematic and statistic, and I recently graduated with hands-on experience in data analysis and machine learning. I am passionate about using data to uncover insights and solve real-world problems.
 
