@@ -22,7 +22,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Education
 Thammasat University 
-Bachelor of Science and Technology in Applied Mathematics,
+Bachelor of Science and Technology in Applied Mathematics
 Aug 2021 - May 2025
 
 ## Contacts
