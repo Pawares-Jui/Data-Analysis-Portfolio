@@ -20,6 +20,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### SMS Spam Analysis – Exploring Patterns in Text Messages
 **Code:** [SMS Spam Analysis](https://github.com/Pawares-Jui/PortfolioProject/blob/main/SMS%20Spam%20Analysis.ipynb)
 
+### iPhone Customer Sentiment Insights
+**Code:** [iPhone Customer Sentiment Insights]()
+
 ## Education
 Thammasat University 
 Bachelor of Science and Technology in Applied Mathematics
