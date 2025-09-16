@@ -21,7 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [SMS Spam Analysis](https://github.com/Pawares-Jui/PortfolioProject/blob/main/SMS%20Spam%20Analysis.ipynb)
 
 ### iPhone Customer Sentiment Insights
-**Code:** [iPhone Customer Sentiment Insights]()
+**Code:** [iPhone Customer Sentiment Insights](https://github.com/Pawares-Jui/PortfolioProject/blob/main/iPhone%20Customer%20Sentiment%20Insights.ipynb)
 
 ## Education
 Thammasat University 
